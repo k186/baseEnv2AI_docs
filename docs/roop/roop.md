@@ -67,6 +67,9 @@
 ![](.roop_images/d3026f35.png)
 
 - 启动UI界面,等待界面启动
+```shell
+ python run.py
+````
 
 ![](.roop_images/565f72f9.png)
 
